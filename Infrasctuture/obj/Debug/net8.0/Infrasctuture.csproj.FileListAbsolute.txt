@@ -1,0 +1,16 @@
+/workspaces/aulaGit/Infrasctuture/bin/Debug/net8.0/Infrasctuture.deps.json
+/workspaces/aulaGit/Infrasctuture/bin/Debug/net8.0/Infrasctuture.dll
+/workspaces/aulaGit/Infrasctuture/bin/Debug/net8.0/Infrasctuture.pdb
+/workspaces/aulaGit/Infrasctuture/bin/Debug/net8.0/Core.dll
+/workspaces/aulaGit/Infrasctuture/bin/Debug/net8.0/Core.pdb
+/workspaces/aulaGit/Infrasctuture/obj/Debug/net8.0/Infrasctuture.csproj.AssemblyReference.cache
+/workspaces/aulaGit/Infrasctuture/obj/Debug/net8.0/Infrasctuture.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/aulaGit/Infrasctuture/obj/Debug/net8.0/Infrasctuture.AssemblyInfoInputs.cache
+/workspaces/aulaGit/Infrasctuture/obj/Debug/net8.0/Infrasctuture.AssemblyInfo.cs
+/workspaces/aulaGit/Infrasctuture/obj/Debug/net8.0/Infrasctuture.csproj.CoreCompileInputs.cache
+/workspaces/aulaGit/Infrasctuture/obj/Debug/net8.0/Infrasctuture.sourcelink.json
+/workspaces/aulaGit/Infrasctuture/obj/Debug/net8.0/Infrasct.1E553C83.Up2Date
+/workspaces/aulaGit/Infrasctuture/obj/Debug/net8.0/Infrasctuture.dll
+/workspaces/aulaGit/Infrasctuture/obj/Debug/net8.0/refint/Infrasctuture.dll
+/workspaces/aulaGit/Infrasctuture/obj/Debug/net8.0/Infrasctuture.pdb
+/workspaces/aulaGit/Infrasctuture/obj/Debug/net8.0/ref/Infrasctuture.dll

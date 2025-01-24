@@ -1,0 +1,12 @@
+/workspaces/aulaGit/Core/bin/Debug/net8.0/Core.deps.json
+/workspaces/aulaGit/Core/bin/Debug/net8.0/Core.dll
+/workspaces/aulaGit/Core/bin/Debug/net8.0/Core.pdb
+/workspaces/aulaGit/Core/obj/Debug/net8.0/Core.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/aulaGit/Core/obj/Debug/net8.0/Core.AssemblyInfoInputs.cache
+/workspaces/aulaGit/Core/obj/Debug/net8.0/Core.AssemblyInfo.cs
+/workspaces/aulaGit/Core/obj/Debug/net8.0/Core.csproj.CoreCompileInputs.cache
+/workspaces/aulaGit/Core/obj/Debug/net8.0/Core.sourcelink.json
+/workspaces/aulaGit/Core/obj/Debug/net8.0/Core.dll
+/workspaces/aulaGit/Core/obj/Debug/net8.0/refint/Core.dll
+/workspaces/aulaGit/Core/obj/Debug/net8.0/Core.pdb
+/workspaces/aulaGit/Core/obj/Debug/net8.0/ref/Core.dll
